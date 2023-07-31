@@ -1,0 +1,35 @@
+.form1{
+    position: relative;
+    margin-right: 255px;
+}
+.form2{
+    position: relative;
+    margin-left: 255px;
+    bottom: 53px;
+}
+
+.btn{
+    position: relative;
+    right: 185px;
+}
+.form3{
+    position: relative;
+    bottom: 55px;
+}
+.form4{
+    position: relative;
+    bottom: 55px;
+}
+.fri{
+    position: relative;
+    margin-right: 400px;
+}
+.frii{
+    position: relative;
+
+}
+.friii{
+    position: relative;
+    margin-left: 350px;
+    bottom: 80px;
+}
